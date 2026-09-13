@@ -1,0 +1,10 @@
+{
+  "name": "Green Step AI",
+  "description": "Green Step AI Assistant - Created and owned by Green Step Team. Features voice search, smooth female voice narration, code-skipping TTS, and persistent multi-chat support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
